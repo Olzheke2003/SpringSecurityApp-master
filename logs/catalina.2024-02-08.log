@@ -1,0 +1,41 @@
+08-Feb-2024 08:42:10.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.18
+08-Feb-2024 08:42:10.762 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Jan 5 2024 14:39:40 UTC
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.18.0
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\olezk\.jdks\openjdk-21.0.1
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            21.0.1+12-29
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\SpringSecurityApp-master
+08-Feb-2024 08:42:10.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\olezk\OneDrive\Рабочий стол\apache-tomcat-10.1.18
+08-Feb-2024 08:42:10.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\olezk\OneDrive\Рабочий стол\apache-tomcat-10.1.18
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\SpringSecurityApp-master
+08-Feb-2024 08:42:10.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\SpringSecurityApp-master\temp
+08-Feb-2024 08:42:10.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\SpringSecurityApp-master\conf\logging.properties
+08-Feb-2024 08:42:10.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Feb-2024 08:42:10.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:D:\IntelliJ IDEA 2023.2.5\lib\idea_rt.jar=52060:D:\IntelliJ IDEA 2023.2.5\bin
+08-Feb-2024 08:42:10.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+08-Feb-2024 08:42:10.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+08-Feb-2024 08:42:10.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+08-Feb-2024 08:42:10.787 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\olezk\.jdks\openjdk-21.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\olezk\AppData\Local\Microsoft\WindowsApps;D:\PyCharm 2023.2.5\bin;;C:\ProgramData\olezk\GitHubDesktop\bin;C:\Users\olezk\AppData\Local\GitHubDesktop\bin;D:\IntelliJ IDEA 2023.2.5\bin;;C:\Users\olezk\.dotnet\tools;.]
+08-Feb-2024 08:42:11.141 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+08-Feb-2024 08:42:11.159 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [663] milliseconds
+08-Feb-2024 08:42:11.219 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Feb-2024 08:42:11.219 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.18]
+08-Feb-2024 08:42:11.232 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\SpringSecurityApp-master\conf\Catalina\localhost\SpringSecurityApp.xml]
+08-Feb-2024 08:42:12.826 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Feb-2024 08:42:12.872 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+08-Feb-2024 08:42:12.885 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/SpringSecurityApp] startup failed due to previous errors
+08-Feb-2024 08:42:12.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\SpringSecurityApp-master\conf\Catalina\localhost\SpringSecurityApp.xml] has finished in [1 665] ms
+08-Feb-2024 08:42:12.904 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Feb-2024 08:42:12.928 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1767] milliseconds
+08-Feb-2024 08:47:39.445 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Feb-2024 08:47:39.448 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Feb-2024 08:47:39.449 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Feb-2024 08:47:39.453 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
